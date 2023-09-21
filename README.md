@@ -1,4 +1,4 @@
-<a id='english' href='#portuguese'><sup>PT</sup><a>
+<a id='english' href='#portuguese'>PT<a>
 
 # 💜 Hello, my name is <strong>{ Kauê Soares }!</strong>
 
@@ -33,7 +33,7 @@
 
 ---
 
-<a id='portuguese' href='#english'><sup>EN</sup><a>
+<a id='portuguese' href='#english'>EN><a>
 
 # 💜 Olá, meu nome é <strong>{ Kauê Soares }!</strong>
 
