@@ -1,8 +1,8 @@
 <a id='english' href='#portuguese'><sup>PT</sup><a>
 
-# 💜 Hello, my name is <strong>{Kauê Soares}!</strong>
+# 💜 Hello, my name is <strong>{ Kauê Soares }!</strong>
 
-> I'm a young person who found a way in programming to do what I love the most: solving problems.
+> I'm a young guy who found in programming a way to do what I like the most: solving problems.
 
 🔭 Currently, I am focused on the **Exitus** project: a computerized access control system at IFSul - Sapiranga Campus, where I study.
 
@@ -35,7 +35,7 @@
 
 <a id='portuguese' href='#english'><sup>EN</sup><a>
 
-# 💜 Olá, meu nome é <strong>{Kauê Soares}!</strong>
+# 💜 Olá, meu nome é <strong>{ Kauê Soares }!</strong>
 
 > Sou um jovem que encontrou na programação uma forma de fazer o que mais gosto: resolver problemas.
 
